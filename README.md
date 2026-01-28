@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there 👋
 
+### Statistics
+  [![Jeanette Müller's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanettemueller)]
+  
+  [![Jeanette Müller's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanettemueller&layout=donut)]
+  
 <!--
 **JeanetteMueller/jeanettemueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
